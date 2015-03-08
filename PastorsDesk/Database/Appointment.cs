@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Copyright (c) ImaBrokeDude - Licensed under GNU GPL
+// For more information, see license file in the main folder
+
+using System;
 using System.Collections.Generic;
 
 namespace PastorsDesk.Database
