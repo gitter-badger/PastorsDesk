@@ -4,7 +4,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PastorsDesk.Database
+namespace PastorsDeskServer.Database
 {
     public class Account
     {

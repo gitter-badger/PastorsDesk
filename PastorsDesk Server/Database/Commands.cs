@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using MySql.Data.MySqlClient;
 
-namespace PastorsDesk.Database
+namespace PastorsDeskServer.Database
 {
     public abstract class SimpleCommand : IDisposable
     {

@@ -3,7 +3,7 @@
 
 using System.Windows;
 
-namespace PastorsDesk
+namespace PastorsDeskServer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

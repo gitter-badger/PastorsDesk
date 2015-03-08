@@ -18,9 +18,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Security.Cryptography;
 using System.Text;
-using PastorsDesk.Properties;
 
-namespace PastorsDesk.Util
+namespace PastorsDeskServer.Util
 {
     /// <summary>BCrypt implements OpenBSD-style Blowfish password hashing
     /// using the scheme described in "A Future-Adaptable Password Scheme"

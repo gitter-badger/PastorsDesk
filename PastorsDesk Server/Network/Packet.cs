@@ -7,7 +7,7 @@ using System.Net;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace PastorsDesk.Network
+namespace PastorsDeskServer.Network
 {
     public enum PacketElementType : byte
     {

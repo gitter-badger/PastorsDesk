@@ -8,7 +8,7 @@ using System.Windows;
 [assembly: AssemblyTitle("PastorsDesk")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Mabiavalon Software Solutions Limited")]
+[assembly: AssemblyCompany("ImaBrokeDude")]
 [assembly: AssemblyProduct("PastorsDesk")]
 [assembly: AssemblyCopyright("Copyright © 2015 Mabiavalon Software Solutions Limited")]
 [assembly: AssemblyTrademark("")]

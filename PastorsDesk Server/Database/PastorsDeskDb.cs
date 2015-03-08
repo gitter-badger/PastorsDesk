@@ -5,9 +5,9 @@
 using System;
 using System.Collections.Generic;
 using MySql.Data.MySqlClient;
-using PastorsDesk.Util;
+using PastorsDeskServer.Util;
 
-namespace PastorsDesk.Database
+namespace PastorsDeskServer.Database
 {
     public class PastorsDeskDb
     {

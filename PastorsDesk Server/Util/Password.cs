@@ -6,7 +6,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace PastorsDesk.Util
+namespace PastorsDeskServer.Util
 {
     /// <summary>
     /// Handles hashing of passwords
