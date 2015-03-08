@@ -1,4 +1,7 @@
-﻿using System.Windows;
+﻿// Copyright (c) ImaBrokeDude - Licensed under GNU GPL
+// For more information, see license file in the main folder
+
+using System.Windows;
 
 namespace PastorsDesk
 {
