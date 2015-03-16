@@ -638,7 +638,7 @@ namespace PastorsDeskServer.Util
             var rounds = 1 << logRounds;
             if (salt.Length != BcryptSaltLen)
             {
-                throw new ArgumentException(Resources.BCrypt_CryptRaw_Invalid_salt_length_, "salt");
+                throw new ArgumentException(Properties.Resources.BCrypt_CryptRaw_Invalid_salt_length_, "salt");
             }
 
             InitKey();
