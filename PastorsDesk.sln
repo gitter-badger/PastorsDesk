@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastorsDesk Server", "PastorsDesk Server\PastorsDesk Server.csproj", "{E943C759-6C8B-49E0-919D-BE35ECD83175}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastorsDesk Server", "PastorsDesk Server\src\PastorsDesk Server.csproj", "{E943C759-6C8B-49E0-919D-BE35ECD83175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastorsDesk Client (Windows)", "PastorsDesk Client (Windows)\PastorsDesk Client (Windows).csproj", "{880331AD-D682-4C0D-A5F6-EB58E1D51A66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastorsDesk Client (Windows)", "PastorsDesk Client (Windows)\src\PastorsDesk Client (Windows).csproj", "{880331AD-D682-4C0D-A5F6-EB58E1D51A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{0A6EE92B-ECF0-42A1-9800-C90970A233A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{880331AD-D682-4C0D-A5F6-EB58E1D51A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880331AD-D682-4C0D-A5F6-EB58E1D51A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880331AD-D682-4C0D-A5F6-EB58E1D51A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6EE92B-ECF0-42A1-9800-C90970A233A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6EE92B-ECF0-42A1-9800-C90970A233A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6EE92B-ECF0-42A1-9800-C90970A233A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6EE92B-ECF0-42A1-9800-C90970A233A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
